@@ -42,4 +42,4 @@ This project is for educational use and is **not officially affiliated** with UT
 
 ---
 
-🚀 *Powering accurate nutrition tracking with LH Nutrition!* 🥗📡
+*Powering accurate nutrition tracking with LH Nutrition!* 🥗📡
