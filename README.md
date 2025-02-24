@@ -1,5 +1,7 @@
 # LH-Nutrition-Backend
-This is the repo for the django backend for my LH Nutrition iOS App
+Backend Repo (Django, AWS EC2, MySQL)
+LH Nutrition App - Backend
+☁️ Powered by Django, AWS EC2, and MySQL, this backend handles nutritional data processing, API requests, and automates daily meal updates. Designed for scalability and efficiency in cloud deployment.
 
 Link to front-end repo done in React Native:
 https://github.com/NirmayDas/LHNutrition
