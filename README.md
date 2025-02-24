@@ -7,7 +7,7 @@
 ---
 
 ## 📝 **Project Overview**
-The **LH Nutrition App** backend is built using **Django** and deployed on **AWS EC2**, serving as the core data-processing unit for **UT Austin students** to track nutritional information from campus dining halls. The backend handles **automated meal data retrieval, API management, and efficient database storage**, ensuring users receive **real-time and accurate nutritional data**.
+The LH Nutrition App backend is built using Django and deployed on AWS EC2, serving as the core data-processing unit for UT Austin students to track nutritional information from campus dining halls. The backend handles automated meal data retrieval, API management, and efficient database storage, ensuring users receive real-time and accurate nutritional data.
 
 ---
 
